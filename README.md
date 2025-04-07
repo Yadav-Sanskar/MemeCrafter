@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+Check out the project live here: [meme-crafter-eight.vercel.app](https://meme-crafter-eight.vercel.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
